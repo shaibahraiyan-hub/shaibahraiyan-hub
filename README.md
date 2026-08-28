@@ -1,6 +1,6 @@
 # Hey, I'm Shaibah 👋
 
-**Master's in Business Analytics & AI** @ Johns Hopkins Carey | Supply Chain & AI Analyst | Baltimore, MD
+**Master's in Business Analytics & AI** @ Johns Hopkins Carey | Supply Chain & AI Analyst | Washington,DC
 
 I'm a data-driven problem solver focused on **responsible AI, algorithmic fairness, and explainability**. I've spent time optimizing supply chains at scale, and now I'm diving deep into AI ethics and analytics.
 
