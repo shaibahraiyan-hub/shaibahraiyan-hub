@@ -1,137 +1,62 @@
-# Hey, I'm Shaibah 👋
+<table align="center">
+  <tr valign="top">
+    <td width="56%"><img src="output/ascii-portrait.svg" width="100%" alt="ASCII portrait"/></td>
+    <td width="44%"><img src="output/neofetch.svg" width="100%" alt="About me — terminal info card"/></td>
+  </tr>
+</table>
 
-```
-########SSSSSS##################################################################################@@@@
-SS#####S%?**?%S%SSSSSSSSS#%S%SSSSSSSSS#SS#####S%?*?%SSS#S##S####S#S################S%%S###########@#
-%%S#####%****?#??S?%%%%%%S%%??S???%%%%%%%#####S??*??SS?S%%%%%%%#%%?S%%%%SSSS%#####S%???%#%SS%SSSSS#S
-SS######S?%?*SS%SSSSSSSSSSSSSSSSSSSSSSSSS######%%%*?#SSSSSSS#SS#S#SS###SS##S#######%%%?%#SS#S#S#####
-S########SS%S##SSSSSSSS%SSSSSSSSSSSSSSSS########S%%###SSSSSSSSSSSSSS#S#SSSSS#########%S#############
-####################################################################################################
-####################################################################################################
-####################################################################################################
-####################################################################################################
-####################################################################################################
-SSSS#SSS#S#SSSSSSSSSSSS#SS#####SS%??%SSS#S#########@@@###############S%%%S##########################
-%?S%?%%%%?SS?%*S%?%?%%%%%%S####S%**+*%S?%%?%%%%S#@@@@@@@#SS%%%%S####S%?*??#%%S%SSSSS#SS%SS%SS#SSSS##
-%%SS%S%S%%SS%S%SS%S%%%SS%%S#####%*?**%S%SS%SSS#@@@@@@@@@@@#SSSSS#####%%??%#%SSSSSSSS#S#SS#S#SS##SS##
-SSSS%SSS%SS%SSSSSSSSSSSSS########S%?%##SSSS##@@@@@@@@@@@@@@@@#########S%%####SSSS#S#SSS#############
-##SSSSSSSSSSSSSSSSS#SSSSS#########S########@@@@@@@@@@@@@@@@@@@@#####################################
-#########################################@@@@@@@##SS#####@@@@@@@@###################################
-#############S##S#####################@@@@@@@@###SS#S#S#####@@@@@@@@################################
-################S####SS#############@@@@@@@@######SS%S#######@@@@@@@@@##############################
-###################SSSSS############@@@@@@@#SS###%?***?%S#@###@@@@@@@@@#############################
-#########SSSSSSSS##########S##########@@@@#####S?++++;;++?#@@##@@@@@@##############S%%S#############
-S%%S####S%*++*%S%%S%%%%%%%S%%?%S%%%SS%%SS###@@#?*+;;;;;;;+?#@###@@SSS%%%S%%S%S####S%?*?%#%SS%SSSSS#%
-%%%S#####%*****#??S?%%%%%%S%%??S?%%%%%%%%##@@#%???*+;;+**???#@####%SS%S%SSSSSS#####%%?*%#SS#S#S#S##S
-SS#######S%%?*SSSSSSSSSS%SSSSSSSSSSSSSSSS#@@@SSSSS%%?+*%S%%*S@@##SSSSSSSSSSS########S%%####SS#######
-SS#########SSS###SSSSSSSSSSSSSSSSSSSSSSS#@@@#%?%%??%*;+*??*+?@@@####################################
-######################################SS#@@@#%*++;+?+;++;;;+*#@@####################################
-#####################################SSS#@@@#S?*++???++++;;+*#@#####################################
-#####################################SS###@@@S%?**?%?**++*++?#######S###############################
-####################################SSS####@@#S?*?%%%??**++*S#######S###############################
-#################################SSSSSS###@@@@S%%?*?**+++*?%@@@@###SSSSSSS##########################
-SSSSSSSSSSs#SSSSSSSSSSSSSSS#####S%*??SS###@##@@#SS?**+++?%S@@@@###SSSS?**?SS%S%S%SS%#SS%SS%%%SSSSS##
-SS*S%?%%%%?SS%%?S??%?S%%%%%#####S?%%%SS######@@##SSS%%%%%S#@######SSSS%%?*SS%SSSSSSS#S#SS#S#SS######
-#SSSSSSSSSSSSSSSSSSSSSSSSS#####SS%SSSSSSS#@#@@@#SS%%%????S@@#S#S####S#SS?S####SSS#SSSSSS############
-##SSSSSSSSSSSSSSSSSSSSSSSS###SSS######SSS###SSS%%??****?%S@@@SS########S############################
-############################SS##@@@@@@@###%????**++***??*?#@@#SS###S##SS############################
-###########################SS#@@@@@@@@@@##%*+;;;+++++++;+?S@##S#######SSS###########################
-##########################SSS@########@@@###%*+;;;++;;;;++?#########################################
-#########################SSS#######S######S###SS?*+++++**?S#@@@#####################################
-########################S###S#@#####SSSSSSSSSS##S?++++++?S###@@@@@##S##############S%?%S###########S
-##########S%??%S#SSSS#SS#S##S#######SSSSSSSSSSS###%+;;+%######@@@@@@#S##S##########%???%#%SS%SSSSS#%
-S%%%S#####%?***?#%?S?%%%%%SSS@##@@####SSSSSSSSS####%;+%########@@@@@########@######S%%?S#S##########
-SSSSs#####S?%?*%#%SSSSSSSS###@@#@@#####S##%S########?%############@#######S#@########SS#############
-SSSS#########S%S###SSSSSSSS###@@#@@#####SS#?S#S######%#########S####@########@#######################
-#############################@@@#@@#@###SS%S#S######%########S%#####@@@####@@#######################
-#############################@@@@@@@######%%#################%%#####@@#####@@@######################
-##############################@@@@@#######%S#################%S#####@@@@@##@@@######################
-##############################@@@@@@######SS#################%S#######@@@##@@@######################
-##############################@@@@@@######SS#################%########@@@##@@@########SSS#SSS#SS#S##
-S#############################@@@@@######@S##################%######@@@@@##@@@#####SS#SSS#SSSSS#SS##
-?S#?SS%S%%%%SS%%?S%%S##@#######@@@@######@S##################S#######@@@@##@@@######################
-?S#SSSS#S#SS##S#SSSS###########@@@@#####@#S########@########SS#######@@@@##@@@######################
-S####SSS##SS#SSS#S############@@@@@#####@#S########@########SS@######@@@@@@@@@#####################@
-###############################@@@@####@@#S#################S#@######@@@@@#@@@#####################@
-#####################@#########@@@@####@@#S#################S#@######@@@@@#@@@######################
-####################@#########@@@@@####@@#S#################%#@####@#@@@@@#@@@###################@@@
-###################@@#########@@@@@####@@#S#################S#@@###@##@@@@#@@@######################
-###################@@#########@@@@@###@@@#S#################S#@@###@##@@@@@@@@#########%#SS#%SSSSS#S
-###########S%??%##@@#########@@@@@@###@@@#S#################S@@@##@@##@@@@@@@@#########S#S##########
-SSSs%S#####S???S#@@@####@@###@@@@@@###@@@#S###@#############S@@@###@@#@@@@@@@#######################
-#S##########%S%##@@@###@@@###@@@@@@##@@@@#S####@@###########S@@@###@@#@@@@@@@#############@@@@@@@@@@
-S##S#########S##@@@@###@@@###@@@@@@##@@@@##@######@########S#@@@###@@#@@@@@@@############@@@@@@@@@@@
-################@@@#@##@@####@@@@@@##@@@@#S@######@@#@####@S#@@@###@@@@@@@@@@############@@@@@@@@@@@
-###############@@@@###@@@####@@@@@###@@@@SS@@#####@@##@@###S#@@@@##@@@@@@@@@@####@########@@@@@@@@@@
-##############@@@@##@##@@####@@@@@##@@@@@S##@#####@@####@##S#@@@@##@@#@@@@@@@####@########@@@@@@@@@@
-#############@@@@@##@##@@####@@@@@##@@@@@S###@####@##@####@S#@@@@##@@@@@@@@@@###@@@##@@@@@########@@
-#############@@@@@##@###@####@@@@@##@@@#@S############@####S@@@@@##@@@@@@@@@@###@@@@@@@##@##S#####@@
-%S##S#######@@@@@@#@@########@@@@@##@@@#@S#@#####@@####@@@#S@@@@@##@@@@@@@@@@####@@@##@@@@@######@@@
-?%S#%#S%SSS@@@@@@@@#@@#######@@@@###@@@@@S#@@##@@@@@#######S@@@@@##@@@@@@@@@#####@@@@@@@@@@#@@@@@@@@
-%%#########@@@@@@@@##########@@@@##@@@@@@S##@@###@@@#######S@@@@@##@@@@@@@@@##@@@@@@@##@@@@@@@@@@@@@
-S#########@@@@@@@@@@#@##@@@@#@@@@##@@@@@@S#@@@@#@@@@@@#####S@@@@@##@@@@@@@@###@@@@@@@@@@@@@@@@@@@@@@
-@#########@@@@@@@@@@#@@######@@@@##@@@@@#S#@@#@#@@@@@@@##@S#@@@@@@#@@@@@@@@###@@@@@@@@@@@@@@@@@@@@@@
-#########@@@@@@@@@@@#########@@@@##@@@@@#S@#@@@@@@@@#@@@##S#@@@@@@#@@@@@@@@###@@@@@@@@@@@@@@@@@@@@@@
-#########@@@@@@@@@@@#######@@@@@@#@@@@@@#S###@@@@@@@###@@#S#@@@@@@#@@@@@@@@###@@@@@#@@@@@@@@@#######
-########@@@@@@@@@@@@@@@@@##@@@@@##@@@@@@#S@###@@@@@@@####@S#@@@@@@##@@@@@@@###@@@@@@@@@@@@@@@#######
-@@@#####@@@@@@@@@@@@@@@@@S%%###@##@@@@@@#S@@#####@@@@@####S#@@@@@@##@@@@@@@###@@@@@@@@@@@@@@@@@##@##
-#######@@@@@@@@@@@@@@@@@@#%?S#S@##@@@@@@#S@@@@###@@##@@@##S@@@@@@@##@@@@@@@@##@@@@@@@@@@@@@@@@@@@@@@
-#SSSSS#@@@@@@@@@@@@@@@@@@@@#SS####@@@@@@##@#@@@@@@@###@@@#S@@@@@@@##@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@
-######@@@@@@@@@@#@@@@@@@@@@@@####@@@@@@@S####@@@@@@@######S@@@@@@@##@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@
-#####@@@@@@@@@###@#@@@@@@@@@@@@##@@@@@@@S#####@@@@@@@###@#S@@@@@@@##@@#SS@@@@@@@@@@@@@@@@@@@@@@@@@@@
-#####@@@@@@@@@@#@@##@@@@@@@@@@@##@@@@@@@S#@####@@@@@@@@##S#@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-####@@@@@@@@@@@@@####@@@@@@@@@@##@@@@@@@S#@@@##@@@@@@@@@@S#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@##@@@@@@@@@@@@##@@@@@@##@@@@###@@@@@@@S#@@@@@@@@@#@@@@@S#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@
-@@@@@@@@@@@@@@@@@@@@@@####@@@@##@@@@@@@@S#@###@@@@@##@@@@S#@@@@@@@@@@@@@@@#@###S#@@@@@@@@@@@@@@@@##@
-```
+<h1 align="center">Shaibah Raiyan</h1>
 
-**Master's in Business Analytics & AI** @ Johns Hopkins Carey | Data Analyst | Baltimore, MD
+<p align="center"><b>Data Analyst / AI · M.S. Business Analytics & AI @ Johns Hopkins · Building with LLMs & Data Systems</b></p>
 
-I'm a data-driven problem solver focused on **responsible AI, algorithmic fairness, and explainability**. I've optimized supply chains at scale and now diving deep into AI ethics and analytics.
+<p align="center">
+  <a href="https://linkedin.com/in/shaibah">
+    <img src="https://img.shields.io/badge/LINKEDIN-shaibah-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=e6e6e6" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shaibahraiyan@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-shaibahraiyan@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=e6e6e6" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 🏆 **Recent Work**
+
+**Pro Bono Consultant** — ACHP Medicare (Mar – May 2026)  
+Built data pipeline processing 607 CMS Medicare plan-exit filings across 43 states and 1,268 counties. Developed HHI market concentration model identifying 185 expansion opportunities and 73 at-risk markets. Presented statistical findings directly to leadership.
+
+**Operations & Supply Chain Analyst** — Mango Leopard (Aug 2024 – Mar 2025)  
+Automated procurement for 22,000 units with demand forecasting engine. Coordinated international suppliers and analyzed customer purchase patterns across platforms.
 
 ---
 
 ### 🛠 **Technical Stack**
 
-**Languages & Tools:** Python · SQL · R · Tableau · Excel  
-**Analytics:** Hypothesis Testing · Demand Forecasting · Statistical Modeling · HHI Concentration Analysis  
-**AI/ML Focus:** Model Explainability · Algorithmic Fairness · Responsible AI  
+**Languages:** Python · SQL · R  
+**AI/ML:** Generative AI · LLMs · PyTorch · Pandas · SciPy · OpenAI · Claude  
+**Tools:** Tableau · Advanced Excel · Azure · Apache Spark · Git · Agile  
+**Specialties:** Demand Forecasting · Supply Planning · Statistical Modeling · HHI Analysis · Data Pipelines  
 
 ---
 
-### 💼 **Experience**
+### 💻 **Key Projects**
 
-**Operations & Supply Chain Analyst** — Mango Leopard  
-Managed supplier relationships, demand planning, and inventory optimization across 1000+ SKUs
+**New Founders** — AI Founder Discovery Platform (Live)  
+Built and deployed weighted multi-axis AI scoring engine (TanStack Start, TypeScript, Supabase PostgreSQL) integrating GitHub and Semantic Scholar signals. Implemented trust verification system with LLM-synthesized analysis.  
+🔗 [newfounders.lovable.app](https://newfounders.lovable.app)
 
-**Supply Chain & Analytics** — SFSU Business Administration (B.S.)  
-Foundation in business fundamentals and analytical thinking
-
----
-
-### 🏆 **Highlights**
-
-- 🥈 **2nd Place** — JHU AI Hackathon
-- 📊 Built demand forecasting models reducing inventory variance
-- 🔍 Deep interest in AI ethics, model interpretability, and bias mitigation
-- 🎯 Currently seeking roles in **Data Analytics, Business Intelligence, or AI Ethics**
+**Inventory & Fuel Purchasing Optimization**  
+Analyzed 5 datasets across 8 stations to identify procurement overspending. Modeled Thursday as optimal purchase day, projecting 8–12% annual cost savings. Built 5-year NPV model for expansion planning.
 
 ---
 
-### 📚 **What I'm Into**
+### 🎓 **Education**
 
-- Explainable AI and algorithmic fairness
-- Supply chain optimization and analytics
-- Statistical rigor in decision-making
-- Building ethical, responsible AI systems
+**M.S. Business Analytics & Artificial Intelligence** — Johns Hopkins University (Aug 2026)  
+**B.S. Business Administration** — San Francisco State University (Aug 2024)
 
----
-
-### 🔗 **Connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaibah)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaibahraiyan@gmail.com)
+**Certifications:** Microsoft Azure AI Foundations · SAS SQL Essential Training · Project Resource Management
 
 ---
 
-*Open to opportunities in data analytics, BI, and AI/ML roles. Let's talk data.* ✌️
+**Currently seeking roles in Data Analytics, Business Intelligence, and AI/ML.**
